@@ -1,18 +1,19 @@
 # EMBO Course in Population Genomics 2026
 ## *Torre del Greco, Naples, Italy, 15-22 June 2026*
 * [EMBO Popgen 2026 website](https://meetings.embo.org/event/26-pop-genomics)
-## TUTORIALS TO DO BEFORE THE COURSE
-Basic knowledge of **Unix**, **Python**, and **R** is required. Unless you are fluent in all three, we strongly recommend reviewing the tutorials below before the course:
-*   **UNIX:** [Shell Novice Tutorial](https://swcarpentry.github.io/shell-novice/)
-*   **PYTHON:** [Python Novice Tutorial](https://swcarpentry.github.io/python-novice-inflammation/)
-*   **R:** [R Novice Tutorial](https://swcarpentry.github.io/r-novice-gapminder/)
+## Prerequisites & Tutorials
+Basic knowledge of **Unix**, **Python**, and **R** is required. Unless you are fluent in all three, we strongly recommend reviewing the tutorials below before the course starts:
 
-## Connections
+> 🖥️ **UNIX:** [Shell Novice Tutorial](Shell Novice Tutorial)
+> 🐍 **PYTHON:** [Python Novice Tutorial](Python Novice Tutorial)
+> 📊 **R:** [R Novice Tutorial](R Novice Tutorial)
 
-For this course we will work on the High Performance Cluster. 
-To connect to the machine via SSH, please send us your public key.
+---
 
-[👉 Instructions on how to create your public key](EMBO_RECAS_SSH_keypair.pdf)
+## Server Access & Connections
+For this course, we will work on the High Performance Cluster. To connect to the machine via SSH, please send us your public key.
+
+[Instructions on how to create your public key](Instructions on how to create your public key).*
 
 ## Repos with teaching materials
 
@@ -29,7 +30,7 @@ To connect to the machine via SSH, please send us your public key.
 | **Matthias Steinrücken** | The University of Chicago, US | [📁 materials](Matthias_Steinrucken) |
 | **Daniel Wegmann** | University of Fribourg, CH | [📁 materials](Daniel_Wegmann) |
 
-## 🖼️ Poster Sessions
+## Poster Sessions
 
 You can find the complete list of files in the dedicated folder: [Browse Posters Folder](Posters)
 
