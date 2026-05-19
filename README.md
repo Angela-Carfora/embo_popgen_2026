@@ -4,12 +4,10 @@
 ## Prerequisites & Tutorials
 Basic knowledge of **Unix**, **Python**, and **R** is required. Unless you are fluent in all three, we strongly recommend reviewing the tutorials below before the course starts:
 
-| 🖥️ **UNIX:** [Shell Novice Tutorial](Shell Novice Tutorial)
-| 🐍 **PYTHON:** [Python Novice Tutorial](Python Novice Tutorial)
-| 📊 **R:** [R Novice Tutorial](R Novice Tutorial)
-
+* 🖥️ **UNIX:** [Shell Novice Tutorial](Shell Novice Tutorial)
+* 🐍 **PYTHON:** [Python Novice Tutorial](Python Novice Tutorial)
+* 📊 **R:** [R Novice Tutorial](R Novice Tutorial)
 ---
-
 ## Server Access & Connections
 For this course, we will work on the High Performance Cluster. To connect to the machine via SSH, please send us your public key.
 
